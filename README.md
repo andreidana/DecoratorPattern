@@ -21,4 +21,4 @@ Use Decorator
 
 - [Adapter](https://github.com/andreidana/AdapterPattern)
 - [Composite](https://github.com/andreidana/CompositePattern)
-- Strategy
+- [Strategy](https://github.com/andreidana/StrategyExample)
